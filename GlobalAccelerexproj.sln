@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalAccelerexproj", "Glob
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InversePermutation", "..\InversePermutation\InversePermutation.csproj", "{14F33C83-5E53-4BD7-AE8E-09959697121C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consolexyz", "..\Consolexyz\Consolexyz.csproj", "{E24B6C19-DDE7-44AF-9F38-7726ED85EB7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{14F33C83-5E53-4BD7-AE8E-09959697121C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14F33C83-5E53-4BD7-AE8E-09959697121C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14F33C83-5E53-4BD7-AE8E-09959697121C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24B6C19-DDE7-44AF-9F38-7726ED85EB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24B6C19-DDE7-44AF-9F38-7726ED85EB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24B6C19-DDE7-44AF-9F38-7726ED85EB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24B6C19-DDE7-44AF-9F38-7726ED85EB7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
